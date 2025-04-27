@@ -28,7 +28,7 @@ Minecraft Server Developer | Python Enthusiast | Machine Learning Explorer
 
 ### 📌 Featured Projects
 - [Donation Notification](https://github.com/Trinity-Indonesia/donation-notification) 
-  Sebuah skript untuk notifikasi donasi untuk meningkatkan engagement monetisasi server Minecraft anda.
+Sebuah skript untuk notifikasi donasi untuk meningkatkan engagement monetisasi server Minecraft anda.
 
 ---
 
