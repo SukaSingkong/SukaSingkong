@@ -39,7 +39,6 @@ one of the most active Minecraft networks in the region with modes like **BoxSMP
 
 - [**Syncara Host**](https://syncara.host) — Scalable, performance-driven hosting for Minecraft and app servers.  
 - [**Trinity Indonesia**](https://www.trinityindonesia.my.id) — Multi-mode Minecraft network (BoxSMP, Skyblock Tycoon, Anarchy Economy).  
-- [**Donation Notification**](https://github.com/Trinity-Indonesia/donation-notification) — Donation alert system to boost player engagement.  
 
 ---
 
