@@ -1,65 +1,84 @@
-<!-- =======================
-   GitHub Profile README
-   Louis Bryan Prayogi (SukaSingkong)
-   ======================= -->
+<div align="center">
+  
+# Louis Bryan Prayogi
+### @SukaSingkong
 
-# 👋 Hi, I’m Louis Bryan Prayogi
-**A.K.A. SukaSingkong**  
-Founder of **Syncara Host** ☁️ and **Trinity Indonesia** 🏰  
-Minecraft Network Builder · Infrastructure & DevOps · Python Automation · AI Student (BINUS)
+**Founder of [Syncara Host](https://syncara.host) ☁️ & [Trinity Indonesia](https://www.trinityindonesia.my.id) 🏰**
 
-![Visitors](https://komarev.com/ghpvc/?username=SukaSingkong&color=064fb4&style=for-the-badge&label=VISITORS)
+*Minecraft Network Builder · Infrastructure & DevOps · Python Automation · AI Student*
 
----
+[![Visitors](https://komarev.com/ghpvc/?username=SukaSingkong&color=064fb4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SukaSingkong)
+[![GitHub followers](https://img.shields.io/github/followers/SukaSingkong?style=for-the-badge&color=064fb4&labelColor=0d1117)](https://github.com/SukaSingkong)
 
-## About
-I build systems that stay up, scale cleanly, and feel fast for players.
-Most of my time goes into **Minecraft network stability**, **server optimization**, and **automation** for infrastructure operations.
-
-- 📍 Based in Jakarta, Indonesia  
-- 🎓 Computer Science (AI) student at BINUS University  
-- 🎯 Current focus: Pterodactyl ecosystem, Paymenter billing, Linux tuning, reverse proxy/SSL, and performance profiling
+</div>
 
 ---
 
-## What I’m Building
+<img align="right" width="320" src="./github-metrics.svg" alt="GitHub Metrics"/>
+
+## 👨‍💻 About Me
+
+I build systems that stay up, scale cleanly, and feel fast for players. Most of my time goes into **Minecraft network stability**, **server optimization**, and **infrastructure automation**.
+
+- 📍 Jakarta, Indonesia
+- 🎓 Digital Business Innovation @ BINUS University
+- 🔧 Currently working with: Pterodactyl, Paymenter, Linux tuning, Nginx, and performance profiling
+
+<br clear="right"/>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### ☁️ Syncara Host
-A performance-driven game/app hosting platform with practical ops tooling and clean infrastructure habits.  
-Website: https://syncara.host
+A performance-driven game & app hosting platform with practical ops tooling and clean infrastructure habits.
+
+[![Website](https://img.shields.io/badge/Website-syncara.host-064fb4?style=flat-square)](https://syncara.host)
+[![GitHub](https://img.shields.io/badge/GitHub-Syncara--Host-181717?style=flat-square&logo=github)](https://github.com/Syncara-Host)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏰 Trinity Indonesia
-A multi-mode Minecraft network built for smooth gameplay and long-term scalability  
-(modes include BoxSMP, Skyblock Tycoon, and Anarchy Economy).  
-Website: https://www.trinityindonesia.my.id
+A multi-mode Minecraft network built for smooth gameplay and long-term scalability — featuring BoxSMP, Skyblock Tycoon, and Anarchy Economy.
+
+[![Website](https://img.shields.io/badge/Website-trinityindonesia.my.id-064fb4?style=flat-square)](https://www.trinityindonesia.my.id)
+[![GitHub](https://img.shields.io/badge/GitHub-Trinity--Indonesia-181717?style=flat-square&logo=github)](https://github.com/Trinity-Indonesia)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
-- **Minecraft:** Paper / Spigot / Purpur, profiling & TPS tuning
-- **Programming:** Java (plugins & optimization), Python (automation & tooling)
-- **ML (campus exploration):** TensorFlow, scikit-learn
-- **Infrastructure:** Linux, Docker, Pterodactyl, Nginx, MariaDB/MySQL
-- **Web:** HTML, CSS, Tailwind
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|:--------:|:-------------|
+| **🎮 Minecraft** | Paper · Spigot · Purpur · Profiling & TPS Tuning |
+| **💻 Languages** | Java (Plugins & Optimization) · Python (Automation & Tooling) |
+| **🤖 ML/AI** | TensorFlow · scikit-learn |
+| **🖥️ Infrastructure** | Linux · Docker · Pterodactyl · Nginx · MariaDB/MySQL |
+| **🌐 Web** | HTML · CSS · Tailwind · Next.js |
+
+</div>
 
 ---
 
-## Featured Work
-- Syncara Host — scalable hosting and infrastructure  
-  https://github.com/Syncara-Host
-- Trinity Indonesia — Minecraft network tooling  
-  https://github.com/Trinity-Indonesia
+<div align="center">
+
+### 💡 Philosophy
+
+> *"Build it stable. Scale it clean. Make players happy."* ⚡
 
 ---
 
-## GitHub Metrics
-> Generated automatically inside this repo (no third-party stats site required).
+[![Built for Performance](https://img.shields.io/badge/Built%20for-Performance%20%26%20Stability-064fb4?style=for-the-badge)](https://github.com/SukaSingkong)
 
-![Metrics](./github-metrics.svg)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20for-Performance%20%26%20Stability-064fb4?style=for-the-badge">
-</p>
-
-> “Build it stable. Scale it clean. Make players happy.” ⚡
+</div>
