@@ -1,64 +1,65 @@
-# 👋 Hi there, I'm Louis Bryan Prayogi  
+<!-- =======================
+   GitHub Profile README
+   Louis Bryan Prayogi (SukaSingkong)
+   ======================= -->
 
+# 👋 Hi, I’m Louis Bryan Prayogi
 **A.K.A. SukaSingkong**  
-Founder of [Syncara Host](https://syncara.host) ☁️ & [Trinity Indonesia](https://www.trinityindonesia.my.id) 🏰  
-Minecraft Server Developer | Python Enthusiast | Machine Learning Explorer  
+Founder of **Syncara Host** ☁️ and **Trinity Indonesia** 🏰  
+Minecraft Network Builder · Infrastructure & DevOps · Python Automation · AI Student (BINUS)
+
+![Visitors](https://komarev.com/ghpvc/?username=SukaSingkong&color=064fb4&style=for-the-badge&label=VISITORS)
 
 ---
 
-🌍 **Based in:** Jakarta, Indonesia  
-🧠 **Focus Areas:** Minecraft server optimization, backend infrastructure, and automation  
-🔗 **Main Projects:** [syncara.host](https://syncara.host) · [trinityindonesia.my.id](https://www.trinityindonesia.my.id)
+## About
+I build systems that stay up, scale cleanly, and feel fast for players.
+Most of my time goes into **Minecraft network stability**, **server optimization**, and **automation** for infrastructure operations.
 
-![Profile Views](https://komarev.com/ghpvc/?username=SukaSingkong&color=064fb4&style=for-the-badge&label=Visitors)
-
----
-
-### 🧩 About Me  
-
-I'm passionate about building scalable hosting environments and smooth Minecraft experiences.  
-Currently leading **Syncara Host**, a high-performance game and app hosting platform, and **Trinity Indonesia**,  
-one of the most active Minecraft networks in the region with modes like **BoxSMP**, **Skyblock Tycoon**, and **Anarchy Economy**.  
+- 📍 Based in Jakarta, Indonesia  
+- 🎓 Computer Science (AI) student at BINUS University  
+- 🎯 Current focus: Pterodactyl ecosystem, Paymenter billing, Linux tuning, reverse proxy/SSL, and performance profiling
 
 ---
 
-### 🛠️ Tech Stack  
+## What I’m Building
+### ☁️ Syncara Host
+A performance-driven game/app hosting platform with practical ops tooling and clean infrastructure habits.  
+Website: https://syncara.host
 
-- **Minecraft Server Development:** Paper, Spigot, Purpur  
-- **Programming:** Java (plugin dev & optimization), Python (automation & ML)  
-- **Machine Learning:** TensorFlow, scikit-learn  
-- **Infrastructure:** Linux server optimization, Docker, Pterodactyl, Nginx  
-- **Web Development:** HTML, CSS, Tailwind  
-
----
-
-### 🚀 Featured Projects  
-
-[![Syncara Host](https://github-readme-stats.vercel.app/api/pin/?username=Syncara-Host&repo=core&theme=dark)](https://github.com/Syncara-Host)  
-[![Trinity Indonesia](https://github-readme-stats.vercel.app/api/pin/?username=Trinity-Indonesia&repo=donation-notification&theme=dark)](https://github.com/Trinity-Indonesia/donation-notification)
-
-- [**Syncara Host**](https://syncara.host) — Scalable, performance-driven hosting for Minecraft and app servers.  
-- [**Trinity Indonesia**](https://www.trinityindonesia.my.id) — Multi-mode Minecraft network (BoxSMP, Skyblock Tycoon, Anarchy Economy).  
+### 🏰 Trinity Indonesia
+A multi-mode Minecraft network built for smooth gameplay and long-term scalability  
+(modes include BoxSMP, Skyblock Tycoon, and Anarchy Economy).  
+Website: https://www.trinityindonesia.my.id
 
 ---
 
-### 📈 GitHub Stats  
-
-![SukaSingkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukaSingkong&show_icons=true&theme=dark&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukaSingkong&layout=compact&theme=dark)
+## Tech Stack
+- **Minecraft:** Paper / Spigot / Purpur, profiling & TPS tuning
+- **Programming:** Java (plugins & optimization), Python (automation & tooling)
+- **ML (campus exploration):** TensorFlow, scikit-learn
+- **Infrastructure:** Linux, Docker, Pterodactyl, Nginx, MariaDB/MySQL
+- **Web:** HTML, CSS, Tailwind
 
 ---
 
-### 🤝 Let's Connect  
+## Featured Work
+- Syncara Host — scalable hosting and infrastructure  
+  https://github.com/Syncara-Host
+- Trinity Indonesia — Minecraft network tooling  
+  https://github.com/Trinity-Indonesia
 
-💬 **Discord:** `SukaSingkong#0001`  
-🌐 **Websites:** [syncara.host](https://syncara.host) · [trinityindonesia.my.id](https://www.trinityindonesia.my.id)  
-📬 **Email:** *(optional — add if you want for business inquiries)*  
+---
+
+## GitHub Metrics
+> Generated automatically inside this repo (no third-party stats site required).
+
+![Metrics](./github-metrics.svg)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-SukaSingkong-ff2e91?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Built%20for-Performance%20%26%20Stability-064fb4?style=for-the-badge">
 </p>
 
-> “Empowering servers, connecting players — from code to cloud.” ⚡
+> “Build it stable. Scale it clean. Make players happy.” ⚡
