@@ -101,7 +101,7 @@ const louis = {
 </a>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SukaSingkong&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com?user=SukaSingkong&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 
 <!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SukaSingkong&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B"/>
