@@ -96,8 +96,8 @@ const louis = {
 
 <!-- GITHUB STATS CARDS -->
 <a href="https://github.com/SukaSingkong">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SukaSingkong&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukaSingkong&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SukaSingkong&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SukaSingkong&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
 </a>
 
 <!-- STREAK STATS -->
