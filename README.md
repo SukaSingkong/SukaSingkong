@@ -5,7 +5,7 @@
 
 **Founder of [Syncara Host](https://syncara.host) ☁️ & [Trinity Indonesia](https://www.trinityindonesia.my.id) 🏰**
 
-*Minecraft Network Builder · Infrastructure & DevOps · Python Automation · AI Student*
+*Minecraft Network Builder · Infrastructure & DevOps · Python Automation*
 
 [![Visitors](https://komarev.com/ghpvc/?username=SukaSingkong&color=064fb4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SukaSingkong)
 [![GitHub followers](https://img.shields.io/github/followers/SukaSingkong?style=for-the-badge&color=064fb4&labelColor=0d1117)](https://github.com/SukaSingkong)
