@@ -41,7 +41,7 @@ interests:
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/☁️-064fb4?style=for-the-badge" alt="cloud"/>
+<img src="https://syncara.host/brand/Logo.webp" width="80" alt="Syncara Host"/>
 
 ### Syncara Host
 
@@ -54,13 +54,13 @@ interests:
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/🏰-064fb4?style=for-the-badge" alt="castle"/>
+<img src="https://www.trinityindonesia.cc/vendor/logo.png" width="80" alt="Trinity Indonesia"/>
 
 ### Trinity Indonesia
 
 **Multi-mode Minecraft Network**
 
-[![Website](https://img.shields.io/badge/🌐_Website-trinityindonesia.my.id-064fb4?style=for-the-badge)](https://www.trinityindonesia.my.id)
+[![Website](https://img.shields.io/badge/🌐_Website-trinityindonesia.cc-064fb4?style=for-the-badge)](https://www.trinityindonesia.cc)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Trinity--Indonesia-181717?style=flat-square&logo=github)](https://github.com/Trinity-Indonesia)
 
@@ -94,7 +94,7 @@ interests:
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="400"/>
 
 </div>
 
